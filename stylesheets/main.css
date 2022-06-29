@@ -1,0 +1,86 @@
+<style>
+
+    h1 {
+      background-color: Gray;
+      color: black;
+      padding: 75px;
+      width: 1400px;
+    }
+
+    #block_1 {
+      background-color: lightblue;
+      color: black;
+      height: 40px;
+      width: 1400px;
+      position: relative;
+      top: 0px
+    }
+
+    .headerLinks {
+      color: black;
+      font-weight: bold;
+      position: relative;
+      top: -73px;
+      left: 1400px
+    }
+
+    .blockLinks {
+      display: inline;
+      position: relative;
+      padding-left: 30px;
+      top: -40px;
+      left: 1150px
+    }
+
+    #image_1 {
+      width: 900px;
+      position: relative;
+      top: 0px;
+      left: 30px
+    }
+
+    #header_2 {
+      position: relative;
+      font-size: 40px;
+      font-weight: bold;
+      top: 25px;
+      left: 50px
+    }
+
+    #paragraph_1 {
+      position: relative;
+      top: 25px;
+      left: 33px;
+      width: 850px;
+      font-size: 22px;
+      padding: 20px
+    }
+
+    .footer {
+      position: relative;
+      top: -975px;
+      background-color: lightblue;
+      color: black;
+      width: 1400px;
+      padding: 15px;
+      font-size: 17px;
+    }
+
+    #sideView {
+      position: relative;
+      top: -947px;
+      left: 1050px
+    }
+
+    .sideImage {
+      width: 335px;
+      padding-bottom: 40px;
+    }
+
+    .sideHeader {
+      font-weight: bold;
+      font-size: 30px;
+      padding-bottom: 10px;
+    }
+
+</style>
